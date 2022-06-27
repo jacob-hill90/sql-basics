@@ -189,3 +189,4 @@ school=# SELECT * FROM students;
 ```
 
 Run the same select command against all of your tables and make sure you see the same records listing in `seed_data.sql`.
+```~~~```
